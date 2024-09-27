@@ -3,8 +3,8 @@
 /*apenas um comentario
 multi linha*/
 
-let nome = prompt('Qual é o seu nome?')
+let noomme = prompt('Qual é o seu nome?')
 
-alert('Seja Bem Vindo ' + nome + ' !')
+alert('Seja Bem Vindo ' + noomme + ' !')
 
-console.log('variavel' nome)
+console.log('variavel')
