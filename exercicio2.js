@@ -1,5 +1,7 @@
-let nome2 = prompt('Qual é seu nome? ')
-let idade2 = prompt('Qual é sua idade? ')
+let a = 10
+let b = 20
+c = a
+b = c
+a = b
 
-console.log('variavel "nome" -', nome2, 'seu tipo é', typeof nome2)
-console.log('variavel "idade" -', idade2, 'seu tipo é', typeof +idade2)
+console.log(a, b, c) //vai aparecer 10, 10, 10
